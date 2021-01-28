@@ -1,0 +1,7 @@
+DECLARATION
+I hereby certify that no part of this submission has been copied from any
+sources, including the Internet, books or other student’s work, except the code
+given in the lectures or practical classes of this unit. No part of the code has
+been written/produced for me by another person.
+I hold a copy of this assignment that I can reproduce if the original is lost or
+damaged.
