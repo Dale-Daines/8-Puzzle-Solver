@@ -1,3 +1,4 @@
+//Controls the state of the game's board
 #include <vector>
 #include <iostream>
 #include <stdlib.h>
