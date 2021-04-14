@@ -1,3 +1,4 @@
+//Main class to create the game
 #include "state.h"
 #include <queue>
 #include <vector>
